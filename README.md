@@ -1,6 +1,11 @@
 # ElixirPidCrtl
 
-The dumbest PID controller.
+The dumbest PID controller. I think this mostly works.
+
+Resources:
+* https://en.wikipedia.org/wiki/PID_controller
+* https://www.wescottdesign.com/articles/pid/pidWithoutAPhd.pdf
+* http://www.georgegillard.com/documents/2-introduction-to-pid-controllers
 
 ### Run it
 ```
